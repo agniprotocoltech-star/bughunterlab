@@ -1,0 +1,6 @@
+backend/.env
+backend/bughunterlab.db
+certs/
+__pycache__/
+*.pyc
+.env
